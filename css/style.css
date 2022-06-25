@@ -80,7 +80,7 @@ header {
 .featured {
     padding: 70px 0;
     text-align: center;
-    background: #E5E5E5;
+    background: #f9fafb;
 }
 
 .featured_content {
@@ -119,7 +119,7 @@ header {
 
 .online_courses {
     padding: 24px 0 50px;
-    background: #e5e5e5;
+    background: #f9fafb;
 }
 
 .online_courses h1 {
@@ -193,7 +193,7 @@ header {
 }
 
 .testimonial {
-    background: #E5E5E5;
+    background: #f9fafb;
     padding: 50px 0 80px;
 }
 
